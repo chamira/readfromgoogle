@@ -74,8 +74,8 @@ mySheet.useServiceAccountAuth(creds, function(err){
 	            				"\n</resources>";
 	            }
 
-	            //console.log(enString);
-	            writeToFile(language,type,enString);
+	            console.log(enString);
+	            //writeToFile(language,type,enString);
 
         	}	
 
